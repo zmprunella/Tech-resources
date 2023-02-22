@@ -8,6 +8,10 @@ https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-
 
 https://www.udemy.com/course/git-and-github-bootcamp/
 
+## Blog Posts
+
+https://overreacted.io/what-is-javascript-made-of/
+
 ## Quick Youtube videos
 
 https://www.youtube.com/@Fireship/videos
